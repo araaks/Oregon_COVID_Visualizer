@@ -1,4 +1,4 @@
-# Oregon COVID Visualizer by County
+# Oregon COVID Visualizer by County in R
 
 This code tracks Oregon COVID-19 data by county and outputs either an HTML file (to be shared or embedded onto a website or a gif. I added the code to create the gif just to see what it would produce, but I ended up finding it more interesting than the HTML file because it shows the data over time.
 
