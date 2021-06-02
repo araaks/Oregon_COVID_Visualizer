@@ -25,4 +25,7 @@ File Breakdown:
   - HTML output file. This contains the interactive map that was demonstrated in the presentation. Allows the user to click on each county to see the na,e and number of cases over a given time period or single day (specified during the generation of the HTML file).
 
 - choropleth.gif
-  - GIF output file. A gif that iterates over each date in the total_data.xlsx file. Shows how the numebr of positive cases per day changed over time.
+  - GIF output file. A gif that iterates over each date in the total_data.xlsx file. Shows how the number of positive cases per day changed over time.
+
+
+![](choropleth.gif)
