@@ -27,5 +27,7 @@ File Breakdown:
 - choropleth.gif
   - GIF output file. A gif that iterates over each date in the total_data.xlsx file. Shows how the number of positive cases per day changed over time.
 
-
-![](choropleth.gif)
+# GIF Output
+<p align="center">
+  <img src="choropleth.gif" alt="animated" />
+</p>
